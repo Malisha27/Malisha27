@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Malisha27
-- 👀 I’m interested in python, java
-- 🌱 I’m currently in 1st yr CS
-- 💞️ I’m looking to collaborate on Projects, and contribute
+
 - 📫 How to reach me : 27malisha@gmail.com
 
 <!---
